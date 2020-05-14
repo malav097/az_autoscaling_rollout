@@ -9,6 +9,7 @@ heatlh check using the Application Gateway module from Azure, once all instances
 the original instance capacity.
 
 ### Parameters
+
 vmss name: Virtual machine scale set name
 appgw:  Application Gateway name
 resource group: Rersource group Name
