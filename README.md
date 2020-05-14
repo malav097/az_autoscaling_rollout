@@ -1,5 +1,5 @@
 # az_autoscaling_rollout.py
-Rolling update Azure scale set instances to be used in CI/CD Pipelines 
+A simple rolling update Azure scale set instances script to be used in CI/CD Pipelines 
 
 I develop this simple script to be used in a Jenkins Job. 
 
