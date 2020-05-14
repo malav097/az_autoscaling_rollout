@@ -42,7 +42,7 @@ class az_rollout:
 
     def get_vms(self, client):
         """ 
-        Method used to obtain a list of the vms running inside the scale set
+        Method used to obtain a list of the vms running inside the scale set.
 
             Parameters:
                 'client' parameter must be a ComputeManagementClient class instance from azure.mgmt.compute module.
