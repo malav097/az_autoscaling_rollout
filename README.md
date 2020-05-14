@@ -11,7 +11,9 @@ the original instance capacity.
 ### Parameters
 
 vmss name: Virtual machine scale set name
+
 appgw:  Application Gateway name
+
 resource group: Rersource group Name
 
 Usage: 
